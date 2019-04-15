@@ -6,6 +6,7 @@ module.exports = [
         "favoriteFood": "Chicken",
         "picUrl": "http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Rottweiler-3.jpg",
         "picUrlSq": "http://www.dogbreedplus.com/dog_breeds/images/cute-rottweiler-puppy.jpg",
+        "price": "10",
         "description": "Rex is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     },
     {
@@ -15,6 +16,7 @@ module.exports = [
         "favoriteFood": "Liver",
         "picUrl": "http://www.gpamass.com/s/img/emotionheader713297504.jpg",
         "picUrlSq": "https://www.collinsdictionary.com/images/thumb/greyhound_21701074_250.jpg",
+        "price": "10",
         "description": "Fido is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     },
     {
@@ -24,6 +26,7 @@ module.exports = [
         "favoriteFood": "Beef",
         "picUrl": "https://www.pocketpitbull.com/wp-content/uploads/2017/03/blue-staffy-pitbull-370x208.jpg",
         "picUrlSq": "http://www.vrcpitbull.com/wp-content/uploads/2011/02/VAMPVAMP%E2%80%A2.jpg",
+        "price": "10",
         "description": "Rolfe is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     },
     {
@@ -33,6 +36,7 @@ module.exports = [
         "favoriteFood": "Fish",
         "picUrl": "http://www.dogbreedslist.info/uploads/allimg/dog-pictures/West-Highland-White-Terrier-2.jpg",
         "picUrlSq": "https://upload.wikimedia.org/wikipedia/commons/2/2c/West_Highland_White_Terrier_Krakow.jpg",
+        "price": "10",
         "description": "Princhi is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     },
     {
@@ -42,6 +46,7 @@ module.exports = [
         "favoriteFood": "Chicken",
         "picUrl": "https://i.ytimg.com/vi/-57vwuw_aY8/maxresdefault.jpg",
         "picUrlSq": "http://www.caninest.com/images/black-poodle.jpg",
+        "price": "10",
         "description": "Mr. Fluffles is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     },
     {
@@ -51,6 +56,7 @@ module.exports = [
         "favoriteFood": "Pork",
         "picUrl": "http://via.placeholder.com/350x150",
         "picUrlSq": "http://via.placeholder.com/250x250",
+        "price": "10",
         "description": "Santa's Little Helper is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     },
     {
@@ -60,6 +66,7 @@ module.exports = [
         "favoriteFood": "Cats",
         "picUrl": "http://via.placeholder.com/350x150",
         "picUrlSq": "http://via.placeholder.com/250x250",
+        "price": "10",
         "description": "Alf is an alien and he's a good alien who loves to play and hang out with his owners. He also likes to nap and enjoys eating cats"
     },
     {
@@ -69,6 +76,7 @@ module.exports = [
         "favoriteFood": "Dragon",
         "picUrl": "http://via.placeholder.com/350x150",
         "picUrlSq": "http://via.placeholder.com/250x250",
+        "price": "10",
         "description": "Bubba is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food"
     }
 ]
